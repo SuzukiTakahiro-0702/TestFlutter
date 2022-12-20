@@ -71,7 +71,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   decoration: const BoxDecoration(
                     color: Colors.lightGreen,
                   ),
-                  children: ['時間', '大学会議室1', '大学会議室2', '大学会議室3']
+                  children: ['時間a', '大学会議室1', '大学会議室2', '大学会議室3']
                       .map((e) => Container(
                             alignment: Alignment.center,
                             margin: const EdgeInsets.only(top: 10, bottom: 10),
